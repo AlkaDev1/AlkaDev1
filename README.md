@@ -62,3 +62,40 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="60" height="60" alt="Notion" />
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Estadísticas -->
+<h1 align="center">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h1>
+<br/><br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Pablo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlkaDev1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlkaDev1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AlkaDev1 Top Languages" height="192px"/>
+  </a>
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://github.com/AlkaDev1/graphs/contributions" target="_blank">
+    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+         alt="GitHub Contribution Snake" />
+  </a>
+</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Proyectos Destacados -->
+<h1 align="center">📂 Proyectos</h1>
+<a href="https://github.com/Tonatiuh-softdev/CRUD_Turnomatico-Equipo_5_3-D">
+  <!-- Pin del repositorio -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonatiuh-softdev&repo=CRUD_Turnomatico-Equipo_5_3-D&theme=tokyonight" />
+</a>
+
+
+
