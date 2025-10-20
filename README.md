@@ -45,3 +45,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MariaDB" />
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Herramientas y Tecnologías -->
+<h1 align="center">🧰 Herramientas y Tecnologías</h1>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tower.svg" width="60" height="60" alt="Tower" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitkraken.svg" width="60" height="60" alt="GitKraken" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ IDEA" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="60" height="60" alt="Notion" />
+</p>
+
