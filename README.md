@@ -97,5 +97,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonatiuh-softdev&repo=CRUD_Turnomatico-Equipo_5_3-D&theme=tokyonight" />
 </a>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Redes Sociales -->
+<h1 align="center">🌐 Mis Redes Sociales</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-pablo-alcala-zuniga-3a4300351" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" />
+  </a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
