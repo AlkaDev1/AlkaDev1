@@ -90,7 +90,7 @@
 <h1 align="center">📂 Proyectos 📂</h1>
 <p align="center">
   <a href="https://github.com/AlkaDev1/FreeLancer">
-    <img src="https://github-readme-stats-tawny-three-60.vercel.app/api/pin/?username=AlkaDev1&repo=FreeLancer&theme=tokyonight" alt="FreeLancer Repo Card" />
+    <img src="https://github-readme-stats-sigma-amber-37.vercel.app/api/pin/?username=AlkaDev1&repo=FreeLancer&theme=tokyonight" alt="FreeLancer Repo Card" />
   </a>
 </p>
 
