@@ -89,10 +89,6 @@
 <!-- Proyectos Destacados -->
 <h1 align="center">📂 Proyectos 📂</h1>
 
-  <a href="https://github.com/AlkaDev1/FreeLancer">
-    <img src="https://github-readme-stats-sigma-amber-37.vercel.app/api/pin/?username=AlkaDev1&repo=FreeLancer&theme=tokyonight&v=2" alt="FreeLancer Repo Card" />
-  </a>
-
   <a href="https://github.com/Tonatiuh-softdev/NEXORA">
     <img src="https://github-readme-stats-sigma-amber-37.vercel.app/api/pin/?username=Tonatiuh-softdev&repo=NEXORA&theme=tokyonight&v=2" alt="NEXORA Repo Card" />
   </a>
