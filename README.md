@@ -22,11 +22,11 @@
 <h1 align="center"><b> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" height="40" align="center"> Hola, soy Pablo Alcala <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> <img  align="center" height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></b></h1>
 
 * 🎓 Titulado del bachillerato como **Técnico Analista Programador**, actualmente estudiante de **Ingeniería de Software**.
-* 💻 Trabajo con **Python**, **HTML**, **CSS**, **PHP**, **MariaDB**, **C**, **C++** y **Java**.
-* 🌱 Actualmente aprendiendo sobre **Diseño de Bases de Datos Relacionales**, **Estructuras de Datos**, **Metodologías Ágiles** y **Estructura de Computadoras**.
+* 💻 Trabajo con **Python**, **HTML**, **CSS**, **PHP**, **MariaDB**, **SQLite**, **C**, **C++** y **Java**.
+* 🌱 Actualmente aprendiendo sobre **Bases de Datos No Relacionales**, **Formulación de Proyectos de Software** y **Sistemas Embebidos**.
 * 🚀 Me apasiona la **Ingeniería de Software**, aunque el **Desarrollo** también me llama mucho la atención.
-* 📂 Actualmente colaborando en un proyecto académico: [CRUD Turnomático - Equipo 5 3°D](https://github.com/Tonatiuh-softdev/CRUD_Turnomatico-Equipo_5_3-D).
-* 📖 En mi tiempo libre disfruto **pescar**, **leer** y **criar aves**.
+* 📂 Actualmente colaborando en un proyecto académico: []().
+* 📖 En mi tiempo libre disfruto **leer**.
 * ✨ Siempre en busca de nuevos aprendizajes y desafíos que impulsen mi crecimiento profesional y personal.
 <!--End Intro-->  
 
@@ -45,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MariaDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="Logo de SQLite" width="60" height="60">
 </p>
 
 <!--horizontal divider(gradiant)-->
@@ -56,8 +57,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tower.svg" width="60" height="60" alt="Tower" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitkraken.svg" width="60" height="60" alt="GitKraken" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ IDEA" />
